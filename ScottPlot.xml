@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ScottPlot</name>
+    </assembly>
+    <members>
+        <member name="F:ScottPlot.UserControls.FormHelp.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ScottPlot.UserControls.FormHelp.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ScottPlot.UserControls.FormHelp.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ScottPlot.UserControls.FormSettings.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ScottPlot.UserControls.FormSettings.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ScottPlot.UserControls.FormSettings.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ScottPlot.FormsPlot.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ScottPlot.FormsPlot.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ScottPlot.FormsPlot.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ScottPlot.WpfPlot">
+            <summary>
+            Interaction logic for ScottPlotWPF.xaml
+            </summary>
+            <summary>
+            WpfPlot
+            </summary>
+        </member>
+        <member name="M:ScottPlot.WpfPlot.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:ScottPlot.Settings">
+            <summary>
+            This class stores settings and data necessary to create a ScottPlot.
+            It is a data transfer object which is easy to pass but inaccessible to users.
+            </summary>
+        </member>
+    </members>
+</doc>
