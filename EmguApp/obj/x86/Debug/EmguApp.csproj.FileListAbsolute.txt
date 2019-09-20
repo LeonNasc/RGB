@@ -1,0 +1,14 @@
+/home/leon/Documents/dev/EmguApp/EmguApp/obj/x86/Debug/EmguApp.csproj.CoreCompileInputs.cache
+/home/leon/Documents/dev/EmguApp/EmguApp/bin/Debug/x86/concrt140.dll
+/home/leon/Documents/dev/EmguApp/EmguApp/bin/Debug/x86/cvextern.dll
+/home/leon/Documents/dev/EmguApp/EmguApp/bin/Debug/x86/msvcp140.dll
+/home/leon/Documents/dev/EmguApp/EmguApp/bin/Debug/x86/opencv_ffmpeg410.dll
+/home/leon/Documents/dev/EmguApp/EmguApp/bin/Debug/x86/vcruntime140.dll
+/home/leon/Documents/dev/EmguApp/EmguApp/bin/Debug/EmguApp.exe
+/home/leon/Documents/dev/EmguApp/EmguApp/bin/Debug/EmguApp.pdb
+/home/leon/Documents/dev/EmguApp/EmguApp/bin/Debug/ScottPlot.dll
+/home/leon/Documents/dev/EmguApp/EmguApp/bin/Debug/ScottPlot.xml
+/home/leon/Documents/dev/EmguApp/EmguApp/obj/x86/Debug/EmguApp.csproj.CopyComplete
+/home/leon/Documents/dev/EmguApp/EmguApp/obj/x86/Debug/EmguApp.exe
+/home/leon/Documents/dev/EmguApp/EmguApp/obj/x86/Debug/EmguApp.pdb
+/home/leon/Documents/dev/EmguApp/EmguApp/obj/x86/Debug/EmguApp.csprojAssemblyReference.cache

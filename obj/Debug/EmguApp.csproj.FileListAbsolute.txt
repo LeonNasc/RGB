@@ -1,0 +1,34 @@
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/x64/concrt140.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/x64/cvextern.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/x64/msvcp140.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/x64/opencv_ffmpeg320_64.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/x64/vcruntime140.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/x86/concrt140.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/x86/cvextern.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/x86/msvcp140.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/x86/opencv_ffmpeg320.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/x86/vcruntime140.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/EmguApp.exe
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/EmguApp.pdb
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/Emgu.CV.UI.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/Emgu.CV.World.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/ZedGraph.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/Emgu.CV.UI.xml
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/Emgu.CV.World.xml
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/zh-tw/ZedGraph.resources.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/ru/ZedGraph.resources.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/it/ZedGraph.resources.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/tr/ZedGraph.resources.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/es/ZedGraph.resources.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/sk/ZedGraph.resources.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/sv/ZedGraph.resources.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/fr/ZedGraph.resources.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/ja/ZedGraph.resources.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/hu/ZedGraph.resources.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/pt/ZedGraph.resources.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/zh-cn/ZedGraph.resources.dll
+/home/leon/Documents/dev/EmguApp/bin/Debug but better/de/ZedGraph.resources.dll
+/home/leon/Documents/dev/EmguApp/obj/Debug/EmguApp.csproj.CoreCompileInputs.cache
+/home/leon/Documents/dev/EmguApp/obj/Debug/EmguApp.csproj.CopyComplete
+/home/leon/Documents/dev/EmguApp/obj/Debug/EmguApp.exe
+/home/leon/Documents/dev/EmguApp/obj/Debug/EmguApp.pdb

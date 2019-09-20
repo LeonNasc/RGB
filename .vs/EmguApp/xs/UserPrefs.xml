@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{AC80722A-A004-4BB6-AD8B-D56E9F692848}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmguApp/Program.cs">
+    <Files>
+      <File FileName="EmguApp/Program.cs" Line="28" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmguApp" expanded="True">
+            <Node name="EmguApp" expanded="True">
+              <Node name="References" expanded="True" selected="True" />
+              <Node name="bin" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="EmguApp" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EmguApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="default" Name="default">
+      <Items>
+        <StartupItem ItemId="{AC80722A-A004-4BB6-AD8B-D56E9F692848}" ItemName="EmguApp" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
